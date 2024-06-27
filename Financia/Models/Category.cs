@@ -6,16 +6,16 @@ namespace Financia.Models
     public class Category
     {
         [Key]
-        private int CategoriaId { get; set; }
+        public int CategoryId { get; set; }
 
         [Column(TypeName = "nvarchar(50")]
-        private string Title { get; set; }
+        public string Title { get; set; }
 
         [Column(TypeName = "nvarchar(50")]
-        private string Icon { get; set; }
+        public string Icon { get; set; }
 
         [Column(TypeName = "nvarchar(50")]
-        private string Type { get; set; }
+        public string Type { get; set; }
 
         public Category() 
         {
