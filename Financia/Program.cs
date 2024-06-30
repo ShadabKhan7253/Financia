@@ -11,6 +11,8 @@ builder.Services.AddDbContext<DataDBContext>(options =>
     // by calling UseSqlServer() it tell that we are going to use sql server DB
     options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
 
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2VVhhQlFac1pJXGFWfVJpTGpQdk5xdV9DaVZUTWY/P1ZhSXxRdkNjWn9edHNRRmZYWEM=");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
