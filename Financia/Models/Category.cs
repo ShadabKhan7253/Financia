@@ -18,6 +18,15 @@ namespace Financia.Models
         [Column(TypeName = "nvarchar(10)")]
         public string Type { get; set; }
 
+        [NotMapped]
+        public string TitleWithIcon
+        {
+            get
+            {
+                return this.Icon + " " + this.Title;
+            }
+        }
+
         public Category() 
         {
             if(Title == null)
