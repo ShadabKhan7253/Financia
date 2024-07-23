@@ -1,7 +1,7 @@
 ﻿@model Financia.Models.Category
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["PageTitle"] = Model.CategoryId == 0 ? "Create a new Category" : "Edit category"; 
 }
 
 <hr />
@@ -22,7 +22,7 @@
             </div>
             <div class="mb-3">
                 @* ejs-for = name and value both are apply by this property *@
-                <ejs-textbox id="title" placeholder="Ttle" ejs-for="Title" floatLabelType="Always"></ejs-textbox>
+                <ejs-textbox id="title" placeholder="Title" ejs-for="Title" floatLabelType="Always"></ejs-textbox>
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="mb-3">    
