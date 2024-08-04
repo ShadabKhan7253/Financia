@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "E:\\DotNet\\Application\\Financia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,12 +11,28 @@
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Financia\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Financia\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T16:47:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Transaction\\Index.cshtml",
               "RelativeDocumentMoniker": "Financia\\Views\\Transaction\\Index.cshtml",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Transaction\\Index.cshtml",
               "RelativeToolTip": "Financia\\Views\\Transaction\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAARAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T10:58:05.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Financia\\Models\\Category.cs",
@@ -68,39 +85,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Transaction.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Financia\\Models\\Transaction.cs",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Models\\Transaction.cs",
               "RelativeToolTip": "Financia\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAArAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T05:58:23.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AddOrEdit.cshtml",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Transaction\\AddOrEdit.cshtml",
               "RelativeDocumentMoniker": "Financia\\Views\\Transaction\\AddOrEdit.cshtml",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Transaction\\AddOrEdit.cshtml",
               "RelativeToolTip": "Financia\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T04:33:43.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Financia\\Views\\Category\\AddOrEdit.cshtml",
+              "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeToolTip": "Financia\\Views\\Category\\AddOrEdit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T04:34:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Financia\\Controllers\\TransactionController.cs",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\TransactionController.cs",
               "RelativeToolTip": "Financia\\Controllers\\TransactionController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAYwCUAAAA6AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T11:05:01.912Z",
               "EditorCaption": ""
@@ -108,19 +138,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "Financia\\Views\\Category\\AddOrEdit.cshtml",
-              "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeToolTip": "Financia\\Views\\Category\\AddOrEdit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T04:34:10.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Financia\\Controllers\\CategoryController.cs",
