@@ -16,7 +16,7 @@ namespace Financia.Models
         [Column(TypeName ="nvarchar(255)")]
         public string Note { get; set; }
 
-        public DateTime Date { get; set; }
+        public DateTime Date { get; set; } = DateTime.Now;
 
         public Transaction()
         {
