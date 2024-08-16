@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|e:\\dotnet\\application\\financia\\financia\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3F981AC6-95A1-4E90-8EA1-FCDAAD781EC6}|Financia\\Financia.csproj|solutionrelative:financia\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,9 +58,9 @@
               "Title": "DashboardController.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Financia\\Controllers\\DashboardController.cs",
-              "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\DashboardController.cs*",
-              "RelativeToolTip": "Financia\\Controllers\\DashboardController.cs*",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACcAAAAiAAAA",
+              "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Financia\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T06:32:05.16Z",
               "IsPinned": true,
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Financia\\Controllers\\TransactionController.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataDBContext.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Data\\DataDBContext.cs",
               "RelativeDocumentMoniker": "Financia\\Data\\DataDBContext.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Transaction.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Financia\\Models\\Transaction.cs",
@@ -104,19 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Financia\\wwwroot\\css\\site.css",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Financia\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAD4AAAAIAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwGUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-11T06:57:42.904Z"
+              "WhenOpened": "2024-08-11T06:57:42.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Financia\\Views\\Shared\\_Layout.cshtml",
@@ -128,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_SideBar.cshtml",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Shared\\_SideBar.cshtml",
               "RelativeDocumentMoniker": "Financia\\Views\\Shared\\_SideBar.cshtml",
@@ -140,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Program.cs",
               "RelativeDocumentMoniker": "Financia\\Program.cs",
@@ -158,14 +159,14 @@
               "RelativeDocumentMoniker": "Financia\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Financia\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA/AAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-11T06:35:03.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\DotNet\\Application\\Financia\\Financia\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Financia\\Views\\Category\\Index.cshtml",

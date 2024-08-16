@@ -40,6 +40,19 @@ namespace Financia.Controllers
             int balance = totalIncome - totalExpense;
             ViewBag.Balance = balance.ToString("C0");
 
+            //Doughnut Chart - Expense By Category
+            ViewBag.DoughnutChartData = SelectedTransactions
+                .Where(i => i.Category.Type == "Expense")
+                .GroupBy(j => j.Category.CategoryId)
+                .Select(k => new
+                {
+                    categoryTitleWithIcon = k.First().Category.Icon + " " + k.First().Category.Title,
+                    amount = k.Sum(j => j.Amount),
+                    formattedAmount = k.Sum(j => j.Amount).ToString("C0"),
+                })
+                .OrderByDescending(l => l.amount)
+                .ToList();
+
             return View();
         }
     }
