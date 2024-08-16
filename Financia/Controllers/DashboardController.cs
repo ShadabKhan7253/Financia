@@ -96,6 +96,13 @@ namespace Financia.Controllers
                                           expense = expense == null ? 0 : expense.expense,
                                       };
 
+            //Recent Transactions
+            ViewBag.RecentTransactions = await _context.Transaction
+                .Include(i => i.Category)
+                .OrderByDescending(j => j.Date)
+                .Take(5)
+                .ToListAsync();
+
             return View();
         }
     }
