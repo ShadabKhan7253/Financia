@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EgrB1MfofR3XjLmV6eQwKdiJRQfj//p1S6+zq4Hnghs=",
+  "Hash": "i6UvAc+J4CEV4/qmZFM921IHCstzUOY97u619TEelNk=",
   "Source": "Financia",
   "BasePath": "_content/Financia",
   "Mode": "Default",
@@ -1193,6 +1193,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\logo.png",
+      "SourceId": "Financia",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\",
+      "BasePath": "_content/Financia",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\profile.jpg",
+      "SourceId": "Financia",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNet\\Application\\Financia\\Financia\\wwwroot\\",
+      "BasePath": "_content/Financia",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     }
   ]
 }
